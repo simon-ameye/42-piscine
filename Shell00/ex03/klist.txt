@@ -1,0 +1,6 @@
+Credentials cache: API:8A536E21-C9E8-43D4-8AC4-44C3E19626EC
+        Principal: sameye@42.FR
+
+  Issued                Expires               Principal
+Aug  3 14:50:29 2020  Aug 10 14:50:29 2020  krbtgt/42.FR@42.FR
+Aug  3 14:50:30 2020  Aug 10 14:50:29 2020  HTTP/student-storage-2.42.fr@42.FR
